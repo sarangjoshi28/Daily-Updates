@@ -1,0 +1,2 @@
+Learned: ThreadPool and ProcessPool execution
+Completed task: log file analysis useing ThreadPool and performed search operation using regex
