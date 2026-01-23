@@ -1,0 +1,2 @@
+Learnd and Conpleted Task:
+GET,POST,PUT,DELETE operations using python API.
