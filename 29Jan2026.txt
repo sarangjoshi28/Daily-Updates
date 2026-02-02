@@ -1,0 +1,2 @@
+Completed Task:
+Store user data into database using flask api.
