@@ -1,0 +1,5 @@
+Concepts Learned:
+Establish Connection with the database
+
+Task:
+Taken data from user and stored in database using inbuild mysql connector in python
