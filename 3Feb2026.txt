@@ -1,0 +1,3 @@
+Started working on forntend of the project
+Created an authentication page.
+Connected Inbuild Login and Signin of Erp to the authentication page
