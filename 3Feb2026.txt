@@ -1,3 +1,2 @@
-Started working on forntend of the project
-Created an authentication page.
-Connected Inbuild Login and Signin of Erp to the authentication page
+Learned Workflow and client script and implemented it in the feedback project
+
