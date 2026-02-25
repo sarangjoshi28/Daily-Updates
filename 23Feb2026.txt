@@ -1,0 +1,3 @@
+Started working on previous Restaurant website 
+completed the authentication page of the website
+completed the admin dashboard ui
