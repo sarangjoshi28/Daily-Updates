@@ -1,0 +1,3 @@
+created the order doctype for implementation on the order food in the restaurant website.
+created a menu page and cart page form where user can increase and decrease the quantity.
+implemented the logic to submit he the order from user.
