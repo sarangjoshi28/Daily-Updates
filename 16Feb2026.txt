@@ -1,0 +1,1 @@
+learned about how the workflow works like first Quotation,sales order,sales invoice,payment entry etc and implemented in the project
