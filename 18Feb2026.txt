@@ -1,0 +1,2 @@
+Learned server script and implemented it in the project
+implementd Stock Resevation using server script
