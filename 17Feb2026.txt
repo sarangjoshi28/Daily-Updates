@@ -1,0 +1,3 @@
+Created two new roles 1. sales executor 2. account executor
+1.sales executor has permission of creating Quotation and sales order
+2.account executor has permission of creating sales invoice and payment entry
