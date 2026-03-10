@@ -1,0 +1,2 @@
+Started learning about Dippio which is used for building frappe project in react
+learned how it works, structure of react,etc.
