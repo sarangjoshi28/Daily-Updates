@@ -1,0 +1,2 @@
+started working on admin dashboard fully UI i.e without iframe
+learned how to create whitelist python method to consume frappe doctype in frontend through api calls
