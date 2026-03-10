@@ -1,0 +1,2 @@
+using python whitelisted method fetched all the doctype data from frappe into admin dashboard
+completed the ui part of orders, feedback,bood table
