@@ -1,0 +1,2 @@
+Bulid a menu page using react.
+build a frontend using react and using api calls fetched the frappe doctype data into react pages.
