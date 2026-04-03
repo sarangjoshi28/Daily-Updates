@@ -1,0 +1,1 @@
+worked on fronted of the project and created a small page using react and doppio.
