@@ -1,0 +1,2 @@
+Started working on documentation of hosting of frappe project.
+started learning about hosting the frappe project.
