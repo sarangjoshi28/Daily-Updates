@@ -1,0 +1,2 @@
+worked on finishing add menu part of admin dashboard as per told by mentor.
+task :- admin shoud be able to add or create new food catagory and Capitalize every first letter of menu.
