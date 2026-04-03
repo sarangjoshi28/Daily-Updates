@@ -1,0 +1,2 @@
+Started working on worflow for book table as told by the sir in the meeting.
+also told to work on documentation of hosting project.
