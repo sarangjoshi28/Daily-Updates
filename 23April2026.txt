@@ -1,0 +1,3 @@
+worked on backend part of menu module in restaurant website
+implemented crud operations using get,post,update and delete using fast api for menu module which is handled by admin
+authenticated the module using jwt
