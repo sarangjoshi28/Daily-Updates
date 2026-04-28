@@ -1,0 +1,3 @@
+completed the backend part of book table section
+completed the assign table part of book table section
+used fast api, jwt and sql alchemy
