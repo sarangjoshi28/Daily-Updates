@@ -1,0 +1,1 @@
+comabined jwt, pydantic for schemas, sql alchemy for database and created sign up and login page of restaurant project
