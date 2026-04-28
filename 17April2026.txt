@@ -1,2 +1,1 @@
-created the users table using sql alchemy and performed operations using sql alchemy
-learned about the pydantic for creating schemas of database tables
+used the jwt authentication for creating and verifying token when user login 
