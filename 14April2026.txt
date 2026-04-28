@@ -1,0 +1,1 @@
+learned and implemented get and post methods of fastapi in the project
