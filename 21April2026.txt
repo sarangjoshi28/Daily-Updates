@@ -1,0 +1,2 @@
+created users table and performed operations on it using sql alchemy
+learned and implemented pydantic for creating schemas for database tables
